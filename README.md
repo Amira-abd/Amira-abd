@@ -89,35 +89,6 @@ My background in Educational Technology and E-Learning Development also helps me
 ---
 
 <!-- ================================================== -->
-<!--                    EXPERIENCE                      -->
-<!-- ================================================== -->
-
-## 💼 Professional Experience
-
-### Front-End Developer | Minya University
-
-**November 2024 – Present**
-
-- Led the front-end design and development of the new Minya University Official Website.
-- Built scalable and user-friendly web interfaces serving thousands of daily users.
-- Developed component-based architecture and optimized website performance.
-- Improved page load time by 30%.
-- Integrated RESTful APIs for dynamic data fetching and management.
-- Collaborated with back-end developers on Full-Stack development tasks.
-
-### E-Learning Developer | Minya University
-
-**June 2020 – June 2024**
-
-- Designed and implemented structured e-learning courses using Articulate Storyline.
-- Created interactive course elements, activities, and assessments.
-- Participated in brainstorming, template creation, and quality assurance.
-- Improved content quality and learner retention through interactive learning experiences.
-- Combined instructional design with custom front-end coding.
-
----
-
-<!-- ================================================== -->
 <!--                    PROJECTS                        -->
 <!-- ================================================== -->
 
