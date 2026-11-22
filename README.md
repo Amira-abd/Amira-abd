@@ -1,196 +1,96 @@
 
-<!-- ================================================= -->
-<!-- AMIRA ABDELTWAB SABER | GITHUB PROFILE README     -->
-<!-- ================================================= -->
+<!-- ================================================== -->
+<!--                    HEADER                          -->
+<!-- ================================================== -->
 
 <div align="center">
 
-<h2>Hi there, I'm Amira Abdeltwab Saber 👋</h2>
+<img src="./github-banner.png" width="100%" alt="Amira Abdeltwab Developer Banner"/>
 
-<h3>Junior Front-End Developer | Aspiring React.js Developer</h3>
+<br/>
 
-<p>
-  <a href="mailto:amira12abdeltwab@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-39D98A?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/amira-abdeltwab/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Amira-abd">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=39D98A&center=true&vCenter=true&width=650&lines=Junior+Front-End+Developer;Aspiring+React.js+Developer;Full-Stack+Development+Enthusiast;Building+Modern+Web+Experiences" alt="Typing SVG"/>
 
-<img src="https://komarev.com/ghpvc/?username=Amira-abd&style=flat-square&color=39D98A&label=PROFILE+VIEWS" />
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/amira-abdeltwab/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:amira12abdeltwab@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-39D98A?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Amira-abd">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Amira-abd&style=flat-square&color=39D98A&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
+<!-- ================================================== -->
+<!--                    ABOUT ME                        -->
+<!-- ================================================== -->
+
 ## 👩‍💻 About Me
 
-I'm a Junior Front-End Developer with a strong foundation in
-JavaScript, HTML5, and CSS3, and a growing focus on React.js
-and Full-Stack Development.
+Hi! I'm **Amira Abdeltwab Saber**, a Junior Front-End Developer from Minia, Egypt 🇪🇬, passionate about building responsive, scalable, and user-friendly web applications.
 
-I have hands-on experience developing responsive web interfaces,
-integrating RESTful APIs, optimizing website performance,
-and collaborating with cross-functional development teams.
+I have a strong foundation in JavaScript, HTML5, CSS3, and React.js, with hands-on experience in developing real-world web interfaces, integrating RESTful APIs, and collaborating on Full-Stack projects.
 
-My background in Educational Technology and E-Learning Development
-also gives me a unique perspective on creating engaging,
-user-centered digital experiences.
+My background in Educational Technology and E-Learning Development also helps me combine technical skills with user-centered thinking.
 
-- 📍 Based in Minia, Egypt 🇪🇬
 - 💻 Focused on Front-End Development and React.js.
-- 🚀 Exploring Full-Stack Development.
-- 👩‍💻 Team Lead & Full-Stack Developer in EcoLink.
-- 🌱 Currently improving my React.js and TypeScript skills.
-- 🤝 Open to collaboration and junior developer opportunities.
+- ⚛️ Interested in component-based architecture and state management.
+- 🔧 Exploring Full-Stack Development using Node.js, Express.js, and MongoDB.
+- 🚀 Team Lead & Full-Stack Developer of EcoLink graduation project.
+- 🌱 Continuously improving my problem-solving and development skills.
+- 🤝 Open to collaboration, learning opportunities, and development projects.
 
 ---
+
+<!-- ================================================== -->
+<!--                    TECH STACK                      -->
+<!-- ================================================== -->
 
 ## 🛠️ Technical Skills
 
 ### Front-End Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,tailwind"/>
 </p>
-
-| Technology | Proficiency |
-|---|---|
-| HTML5 | Advanced |
-| CSS3 | Advanced |
-| JavaScript ES6+ | Advanced |
-| React.js | Advanced |
-| TypeScript | Intermediate |
-| Bootstrap | Advanced |
-| Tailwind CSS | Intermediate |
 
 ### Back-End Development & Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
 </p>
 
-| Technology | Proficiency |
-|---|---|
-| Node.js | Intermediate |
-| Express.js | Intermediate |
-| MongoDB | Intermediate |
-| RESTful APIs | Advanced |
+### Tools & Development Environment
 
-### State Management & Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=redux,git,github,vscode,postman" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
 </p>
 
-- Redux
-- Git & GitHub
-- Performance Optimization
-- Debugging
+### Additional Skills
+
 - Component-Based Architecture
-
-### Soft Skills & Methodologies
-
-- Team Leadership
+- RESTful API Integration
+- State Management with Redux
+- Performance Optimization
+- Debugging & Problem Solving
 - Agile / Scrum
-- Problem Solving
-- Cross-functional Collaboration
-- Effective Communication
+- Team Leadership & Collaboration
 
 ---
 
-## 🚀 Featured Projects
-
-### 🌐 01. Minya University Official Website
-
-**Front-End Development | Minya University**
-
-Designed and developed the university's official responsive web portal,
-focusing on scalability, usability, and performance.
-
-**Key Contributions:**
-- Built responsive web interfaces using HTML5, CSS3, JavaScript, and Bootstrap.
-- Developed a component-based architecture.
-- Integrated RESTful APIs for dynamic data rendering.
-- Optimized website performance and reduced page load time by 30%.
-- Collaborated with back-end developers on full-stack tasks.
-
-**Tech Stack:**
-
-`HTML5` `CSS3` `JavaScript` `Bootstrap` `REST APIs`
-
-🔗 [Visit Live Website](https://www.minia.edu.eg/Minia/)
-
----
-
-### 🌱 02. EcoLink – Centralized B2B Procurement Marketplace
-
-**Graduation Project | Digital Egypt Pioneers Initiative (DEPI)**
-
-**Role: Team Lead & Full-Stack Developer**
-
-A centralized B2B marketplace connecting verified suppliers and buyers,
-aiming to make material exchange more transparent and sustainable.
-
-**Key Contributions:**
-- Led a software development team through the product lifecycle.
-- Managed sprint planning, task delegation, and GitHub code reviews.
-- Developed responsive React.js front-end components.
-- Built Node.js / Express.js RESTful APIs integrated with MongoDB.
-- Worked on user authentication and global state management.
-- Contributed to performance optimization and platform architecture.
-
-**Tech Stack:**
-
-`React.js` `Redux` `Node.js` `Express.js` `MongoDB`
-`REST APIs` `JavaScript` `Git` `GitHub`
-
-🔗 [Explore Live Project](https://front-green-eta.vercel.app/)
-
----
-
-### 🎮 03. Educational Game
-
-An interactive three-level educational game designed to provide
-an engaging learning experience.
-
-**Key Features:**
-- Three progressive game levels.
-- Progressive level unlocking.
-- Detailed attempt tracking.
-- Score summary algorithms.
-
-**Tech Stack:**
-
-`HTML5` `CSS3` `JavaScript`
-
-🔗 [Play the Game](https://amira-abd.github.io/Educational-game/)
-
----
-
-### 🚗 04. Uber – Ride-Hailing Front-End
-
-A responsive ride-hailing interface featuring interactive booking
-and map-related functionality.
-
-**Key Features:**
-- Interactive ride booking.
-- Driver tracking and live location updates.
-- Google Maps API integration.
-- Redux state management.
-- RESTful APIs for route calculation and fare estimation.
-
-**Tech Stack:**
-
-`React.js` `Redux` `REST APIs` `Google Maps API`
-
-🔗 [Explore Live Project](https://amira-abd.github.io/Uber/)
-
----
+<!-- ================================================== -->
+<!--                    EXPERIENCE                      -->
+<!-- ================================================== -->
 
 ## 💼 Professional Experience
 
@@ -198,108 +98,220 @@ and map-related functionality.
 
 **November 2024 – Present**
 
-- Led front-end design and development of the new official university website.
-- Built scalable and user-friendly interfaces.
-- Developed component-based architecture.
-- Optimized website performance, reducing page load time by 30%.
-- Integrated RESTful APIs for efficient data fetching and rendering.
-- Collaborated with back-end developers on full-stack development tasks.
+- Led the front-end design and development of the new Minya University Official Website.
+- Built scalable and user-friendly web interfaces serving thousands of daily users.
+- Developed component-based architecture and optimized website performance.
+- Improved page load time by 30%.
+- Integrated RESTful APIs for dynamic data fetching and management.
+- Collaborated with back-end developers on Full-Stack development tasks.
 
 ### E-Learning Developer | Minya University
 
 **June 2020 – June 2024**
 
 - Designed and implemented structured e-learning courses using Articulate Storyline.
-- Participated in brainstorming and e-learning template development.
-- Conducted content quality assurance reviews.
+- Created interactive course elements, activities, and assessments.
+- Participated in brainstorming, template creation, and quality assurance.
+- Improved content quality and learner retention through interactive learning experiences.
 - Combined instructional design with custom front-end coding.
-- Developed interactive learning elements and activities.
 
 ---
+
+<!-- ================================================== -->
+<!--                    PROJECTS                        -->
+<!-- ================================================== -->
+
+## 🚀 Featured Projects
+
+### 🌱 01. EcoLink – Centralized B2B Procurement Marketplace
+
+**Turning Surplus into Sustainability**
+
+A sustainable B2B marketplace connecting verified suppliers and buyers, facilitating material exchange and supporting circular economy practices.
+
+<img src="https://placehold.co/900x420/090D12/39D98A?text=ECOLINK+-+B2B+MARKETPLACE" width="100%" alt="EcoLink project preview"/>
+
+**Role:** Team Lead & Full-Stack Developer
+
+**Technologies:**
+`React.js` `Redux` `Node.js` `Express.js` `MongoDB` `REST APIs`
+
+**Key Contributions:**
+
+- Led a development team throughout the project lifecycle under the Digital Egypt Pioneers Initiative (DEPI).
+- Managed sprint planning, task delegation, and GitHub code reviews.
+- Developed responsive React.js front-end components.
+- Built Node.js and Express.js RESTful APIs integrated with MongoDB.
+- Worked on authentication, global state management, and performance optimization.
+- Designed a digital procurement experience connecting buyers and suppliers.
+
+🔗 **[Live Demo](https://front-green-eta.vercel.app/)**
+
+---
+
+### 🎓 02. Minya University Official Website
+
+A responsive university web portal developed to provide a modern and user-friendly experience for students, staff, and visitors.
+
+<img src="https://placehold.co/900x420/090D12/39D98A?text=MINYA+UNIVERSITY+WEBSITE" width="100%" alt="Minya University project preview"/>
+
+**Technologies:**
+`HTML5` `CSS3` `JavaScript` `Bootstrap` `REST APIs`
+
+**Key Contributions:**
+
+- Led the front-end design and development of the website.
+- Built responsive layouts and reusable interface components.
+- Improved page loading performance and cross-browser compatibility.
+- Integrated RESTful APIs with back-end services.
+- Focused on accessibility and user experience.
+
+🔗 **[Visit Website](https://www.minia.edu.eg/Minia/)**
+
+---
+
+### 🎮 03. Educational Game
+
+An interactive three-level educational game designed to create an engaging learning experience.
+
+<img src="https://placehold.co/900x420/090D12/39D98A?text=INTERACTIVE+EDUCATIONAL+GAME" width="100%" alt="Educational game preview"/>
+
+**Technologies:**
+`HTML5` `CSS3` `JavaScript`
+
+**Key Features:**
+
+- Three progressive game levels.
+- Progressive level unlocking.
+- Detailed attempt tracking.
+- Score summary and game logic algorithms.
+
+🔗 **[Play the Game](https://amira-abd.github.io/Educational-game/)**
+
+---
+
+### 🚗 04. Uber – Ride-Hailing Front-End
+
+A responsive ride-hailing interface featuring interactive booking and map-related functionality.
+
+<img src="https://placehold.co/900x420/090D12/39D98A?text=UBER+RIDE+BOOKING+INTERFACE" width="100%" alt="Uber project preview"/>
+
+**Technologies:**
+`React.js` `Redux` `REST APIs` `Google Maps API`
+
+**Key Features:**
+
+- Responsive ride-booking interface.
+- Interactive ride-booking flow.
+- Driver tracking and live location updates.
+- Redux state management.
+- API integration for route calculation and fare estimation.
+
+🔗 **[Live Demo](https://amira-abd.github.io/Uber/)**
+
+---
+
+<!-- ================================================== -->
+<!--                    EDUCATION                       -->
+<!-- ================================================== -->
 
 ## 🎓 Education
 
-**Special Diploma in Educational Technology**
-- Specialization: Educational Design.
-- Minya University.
-- Grade: Very Good.
-- 2018 – 2020.
+### Special Diploma in Educational Technology
+**Minya University | 2018 – 2020**
 
-**Bachelor of Specific Education**
-- Minya University.
-- Grade: Very Good.
-- 2017 – 2018.
+Specialization: Educational Design
 
----
+Grade: Very Good
 
-## 📜 Certifications & Professional Development
+### Bachelor's Degree in Specific Education
+**Minya University | 2017 – 2018**
 
-| Certification | Institution | Date |
-|---|---|---|
-| Effective Presentations | HP LIFE | Nov 2026 |
-| Meta Front-End Developer Professional Certificate (9 Courses) | Coursera | Jun 2026 |
-| Careerflow LinkedIn Profile Completion | Coursera | Mar 2026 |
-| Articulate Storyline (7 Hours) | ITI MaharaTech | Jun 2025 |
-| Web Designer (120 Hours) | NTI | Oct 2024 |
-| AI Tools in Scientific Research & Idea Generation | Schobot | Oct 2024 |
-| HTML & CSS (7 Hours) | ITI MaharaTech | Oct 2023 |
-| ICDL | EDRAAK / ITC – Minya University | 2023 |
-| Prompt Engineering Certification | 1 Million Prompters Initiative | — |
+Grade: Very Good
 
 ---
 
-## 🌱 Currently Learning & Improving
+<!-- ================================================== -->
+<!--                    CERTIFICATIONS                  -->
+<!-- ================================================== -->
 
-- Advanced React.js concepts.
-- TypeScript and modern JavaScript.
-- Reusable and scalable component architecture.
-- Full-Stack application development.
-- Performance optimization and clean code practices.
-- Software development workflows using Agile / Scrum.
+## 📜 Certifications & Professional Training
+
+| Certification | Organization |
+|---|---|
+| Meta Front-End Developer Professional Certificate (9 Courses) | Coursera |
+| Web Designer (120 Hours) | NTI |
+| Articulate Storyline (7 Hours) | ITI MaharaTech |
+| HTML & CSS (7 Hours) | ITI MaharaTech |
+| Effective Presentations | HP LIFE |
+| Careerflow LinkedIn Profile Completion | Coursera |
+| AI Tools in Scientific Research & Idea Generation | Schobot |
+| ICDL | EDRAAK / ITC, Minya University |
+| Prompt Engineering | 1 Million Prompters Initiative |
 
 ---
+
+<!-- ================================================== -->
+<!--                    CURRENT FOCUS                   -->
+<!-- ================================================== -->
+
+## 🌱 Currently Focusing On
+
+- ⚛️ Improving React.js development skills.
+- 💡 Advanced JavaScript and TypeScript.
+- 🔄 State management and reusable components.
+- 🔌 RESTful API integration.
+- 🖥️ Full-Stack application development.
+- 🧩 Writing clean, maintainable, and reusable code.
+
+---
+
+<!-- ================================================== -->
+<!--                    GITHUB ANALYTICS                -->
+<!-- ================================================== -->
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%"
-src="https://github-readme-stats.vercel.app/api?username=Amira-abd&show_icons=true&theme=dark&bg_color=090D12&title_color=39D98A&icon_color=39D98A&text_color=FFFFFF&hide_border=true&rank_icon=github" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amira-abd&show_icons=true&theme=dark&bg_color=090D12&title_color=39D98A&icon_color=39D98A&text_color=FFFFFF&hide_border=true&rank_icon=github" />
 
-<img width="49%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amira-abd&layout=compact&theme=dark&bg_color=090D12&title_color=39D98A&text_color=FFFFFF&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amira-abd&layout=compact&theme=dark&bg_color=090D12&title_color=39D98A&text_color=FFFFFF&hide_border=true" />
 
-<br/>
+<br/><br/>
 
-<img width="75%"
-src="https://streak-stats.demolab.com?user=Amira-abd&theme=dark&background=090D12&ring=39D98A&fire=39D98A&currStreakLabel=39D98A&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com?user=Amira-abd&theme=dark&background=090D12&ring=39D98A&fire=39D98A&currStreakLabel=39D98A&hide_border=true" />
 
 </div>
 
 ---
 
-## 🤝 Let's Connect!
+<!-- ================================================== -->
+<!--                    CONNECT                         -->
+<!-- ================================================== -->
 
-I'm always excited to connect with developers,
-exchange knowledge, collaborate on meaningful projects,
-and explore new opportunities in software development.
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, exchanging knowledge, and collaborating on innovative projects.
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/amira-abdeltwab/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:amira12abdeltwab@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say_Hello-39D98A?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact-39D98A?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Amira-abd">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <br/><br/>
 
 ### 💚 Always Learning. Always Building. Always Growing.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C978,50:063D2E,100:090D12&height=100&section=footer" width="100%"/>
 
 </div>
