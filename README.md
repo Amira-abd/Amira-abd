@@ -129,7 +129,7 @@ My background in Educational Technology and E-Learning Development also helps me
 
 A sustainable B2B marketplace connecting verified suppliers and buyers, facilitating material exchange and supporting circular economy practices.
 
-<img src="https://placehold.co/900x420/090D12/39D98A?text=ECOLINK+-+B2B+MARKETPLACE" width="100%" alt="EcoLink project preview"/>
+<img src="./ecolink.png" width="100%" alt="EcoLink project preview"/>
 
 **Role:** Team Lead & Full-Stack Developer
 
@@ -153,7 +153,7 @@ A sustainable B2B marketplace connecting verified suppliers and buyers, facilita
 
 A responsive university web portal developed to provide a modern and user-friendly experience for students, staff, and visitors.
 
-<img src="https://placehold.co/900x420/090D12/39D98A?text=MINYA+UNIVERSITY+WEBSITE" width="100%" alt="Minya University project preview"/>
+<img src="./minya.png" width="100%" alt="Minya University project preview"/>
 
 **Technologies:**
 `HTML5` `CSS3` `JavaScript` `Bootstrap` `REST APIs`
@@ -174,7 +174,7 @@ A responsive university web portal developed to provide a modern and user-friend
 
 An interactive three-level educational game designed to create an engaging learning experience.
 
-<img src="https://placehold.co/900x420/090D12/39D98A?text=INTERACTIVE+EDUCATIONAL+GAME" width="100%" alt="Educational game preview"/>
+<img src="./game.png" width="100%" alt="Educational game preview"/>
 
 **Technologies:**
 `HTML5` `CSS3` `JavaScript`
@@ -190,26 +190,6 @@ An interactive three-level educational game designed to create an engaging learn
 
 ---
 
-### 🚗 04. Uber – Ride-Hailing Front-End
-
-A responsive ride-hailing interface featuring interactive booking and map-related functionality.
-
-<img src="https://placehold.co/900x420/090D12/39D98A?text=UBER+RIDE+BOOKING+INTERFACE" width="100%" alt="Uber project preview"/>
-
-**Technologies:**
-`React.js` `Redux` `REST APIs` `Google Maps API`
-
-**Key Features:**
-
-- Responsive ride-booking interface.
-- Interactive ride-booking flow.
-- Driver tracking and live location updates.
-- Redux state management.
-- API integration for route calculation and fare estimation.
-
-🔗 **[Live Demo](https://amira-abd.github.io/Uber/)**
-
----
 
 <!-- ================================================== -->
 <!--                    EDUCATION                       -->
