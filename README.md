@@ -5,9 +5,9 @@
 
 <div align="center">
 
-<img src="./github-banner.png" width="100%" alt="Amira Abdeltwab Developer Banner"/>
+<!-- <img src="./github-banner.png" width="100%" alt="Amira Abdeltwab Developer Banner"/>
 
-<br/>
+<br/> -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=39D98A&center=true&vCenter=true&width=650&lines=Junior+Front-End+Developer;Aspiring+React.js+Developer;Full-Stack+Development+Enthusiast;Building+Modern+Web+Experiences" alt="Typing SVG"/>
 
